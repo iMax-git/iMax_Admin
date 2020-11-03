@@ -3,5 +3,6 @@ server_scripts {
     "server/server.lua" -- server resource 
 }
 client_scripts {
-    "@es_extended/client/functions.lua"
+    "@es_extended/client/functions.lua",
+    "client/client.lua"
 }
