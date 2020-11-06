@@ -1,4 +1,4 @@
-# GCR_ADMIN
+# iMax_Admin
 
 
 ## Contenu
